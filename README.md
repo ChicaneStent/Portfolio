@@ -9,8 +9,9 @@ This portfolio includes a few of the projects I've worked on using **Excel** and
 
 1. [📈 Excel Projects](#-excel-projects)
 2. [📊 Looker Studio Dashboards](#-looker-studio-dashboards)
-3. [🧰 Tools Used](#-tools-used)
-4. [📫 Contact Me](#-contact-me)
+3. [📊 Power BI Dashboards](#-power-bi-dashboards)
+4. [🧰 Tools Used](#-tools-used)
+5. [📫 Contact Me](#-contact-me)
 
 ---
 
@@ -40,12 +41,21 @@ This portfolio includes a few of the projects I've worked on using **Excel** and
 
 ---
 
+## 📈 Power BI Dashboards
+
+### 📌 1. CRM Sales Opportunities Dashboard
+- Built in Power BI using a fictitious B2B computer hardware sales pipeline dataset by Maven Analytics. This dashboard visualizes quarter-over-quarter performance, team/agent productivity, and product win rates.
+- I used data modeling, a custom Calendar table, and DAX measures for KPIs (win rate, deal size, pipeline value). 
+- 🔗 
+
+---
+
 ## 🧰 Tools Used
 
 - **Excel**: Pivot tables, formulas, dashboards, charts  
 - **Google Looker Studio**: Interactive reports  
 - **Google Sheets**  
-- **Canva**: Visual planning  
+- **Power BI**: Interactive reports 
 
 ---
 
